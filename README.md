@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zee-ham-su
-- 👀 I’m interested in  data science
-- 🌱 I’m currently learning data science with python
+- 👀 I’m interested in  data/software eng.
+- 🌱 I’m currently learning software eng @ALX  SE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - hsufiian@yahoo.com
 
