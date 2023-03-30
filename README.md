@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I like movies and sports a lot.**
 
-![image](https://user-images.githubusercontent.com/111157318/228828724-8880621d-8774-4396-a55a-778195b693d8.png)
+                                                      ![image](https://user-images.githubusercontent.com/111157318/228828724-8880621d-8774-4396-a55a-778195b693d8.png)
 
 
 <h3 align="left">Connect with me:</h3>
