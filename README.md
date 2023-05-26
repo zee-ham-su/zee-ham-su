@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hsufiian" target="blank"><img src="https://img.shields.io/twitter/follow/hsufiian?logo=twitter&style=for-the-badge" alt="hsufiian" /></a> </p>
 
-- 🌱 I’m currently learning **C,Python @ALXSE,**
+- 🌱 I’m currently learning software engineering @ALXSE,**
 
 - 📫 How to reach me **hsufiian@yahoo.com**
 
