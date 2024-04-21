@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sufian Hamza</h1>
 <h3 align="center">An ALX trained backend developer from Ghana</h3>
 
-- 🌱 I’m currently learning **Django, Flask, Node JS @ALXSE,****
+- 🌱 An ALXSE alumni passionate about backend development, proficient in Django, Flask, and Node.js****
 
 - 👨‍💻 All of my projects are available at [https://sufianhamza.netlify.app/](https://sufianhamza.netlify.app/)
 
