@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufian Hamza</h1>
-<h3 align="center">An ALX trained backend developer from Ghana</h3>
+<h3 align="center"> backend developer from Ghana</h3>
 
 - 🌱 Anything backend development, proficient in Flask, and Node.js****
 
