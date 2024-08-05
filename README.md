@@ -1,15 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sufian Hamza</h1>
-<h3 align="center">A backend developer from Ghana</h3>
+Hi 👋, I'm Sufian Hamza, a backend developer from Ghana | 🌱 Flask, Expressjs, Nestjs | 💬 Python, Javascript | 📫 hsufiian@yahoo.com
 
-- 🌱 Anything backend development. Flask, Expressjs and Nestjs***
-
-- 👨‍💻 All of my projects are available at [https://sufianhamza.netlify.app/](https://sufianhamza.netlify.app/)
-
-- 💬 Ask me about **Python, Javascript**
-
-- 📫 How to reach me **hsufiian@yahoo.com**
-
-- ⚡ Fun fact **I like movies and sports a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
