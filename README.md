@@ -1,4 +1,4 @@
-Hi 👋, I'm Sufian Hamza, a backend developer from Ghana | 🌱 Flask, Expressjs, Nestjs | 💬 Python, Javascript, Typescript | 📫 hsufiian@yahoo.com
+Hi 👋, I'm Sufian Hamza, a backend developer from Ghana | 🌱 Django, Flask, Expressjs, Nestjs | 💬 Python, Javascript, Typescript | 📫 hsufiian@yahoo.com
 
 
 <h3 align="left">Connect with me:</h3>
